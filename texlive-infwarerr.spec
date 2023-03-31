@@ -1,6 +1,6 @@
 Name:		texlive-infwarerr
 Version:	53023
-Release:	1
+Release:	2
 Summary:	Complete set of information/warning/error message macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/infwarerr

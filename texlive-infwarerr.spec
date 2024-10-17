@@ -3,7 +3,7 @@ Version:	53023
 Release:	2
 Summary:	Complete set of information/warning/error message macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/infwarerr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/infwarerr
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/infwarerr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/infwarerr.doc.r%{version}.tar.xz
